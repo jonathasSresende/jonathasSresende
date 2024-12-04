@@ -4,7 +4,7 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 
 💻 Criando no Senac o sistema Funcode.
 
-💬 Reach me at 
+💬 Fale Comigo =) 
 [![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathasbombeiro/)](https://www.linkedin.com/in/jonathasbombeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
