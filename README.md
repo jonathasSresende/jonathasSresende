@@ -2,7 +2,7 @@
 
 Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 
-💻 I'm part of Fresh Photo's dev team.
+💻 Criando no Senac o sistema Funcode.
 
 💬 Reach me at 
 [![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathasbombeiro/)](https://www.linkedin.com/in/jonathasbombeiro/) 
@@ -56,9 +56,9 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 ---
 
 ## ⚙️ GitHub Analytics
-| ![Jonathas Resende's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasSresende&show_icons=true&theme=gruvbox&hide_border=true) | ![Jonathas Resende's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasSresende&layout=donut&theme=gruvbox&hide_border=true) |
+| ![Jonathas Resende GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasSresende&show_icons=true&theme=gruvbox&hide_border=true) | ![Jonathas Resende most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasSresende&layout=donut&theme=gruvbox&hide_border=true) |
 | --- | --- |
 
 
 ## 🏆 GitHub Trophies
-![Jonathas Resende's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonathasSresende&row=1&column=5&theme=gruvbox&no-frame=true)
+![Jonathas Resende GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonathasSresende&row=1&column=5&theme=gruvbox&no-frame=true)
