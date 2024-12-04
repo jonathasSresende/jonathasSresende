@@ -1,13 +1,13 @@
-## 💜 Hello World, my name is Jonathas!
+## 💜 Salve quebrada meu nome é Jonathas!
 
-I'm currently studying on Senac Santana to become a front-end developer.
+Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 
 💻 I'm part of Fresh Photo's dev team.
 
 💬 Reach me at 
 [![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathasbombeiro/)](https://www.linkedin.com/in/jonathasbombeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
-[![GitHub](https://img.shields.io/github/followers/GabrielFRCordeiro?label=follow&style=social)](https://github.com/GabrielFRCordeiro)
+[![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
 ---
 
@@ -56,9 +56,9 @@ I'm currently studying on Senac Santana to become a front-end developer.
 ---
 
 ## ⚙️ GitHub Analytics
-| ![Jonathas Resende's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasSresende&show_icons=true&theme=gruvbox&hide_border=true) | ![Gabriel Cordeiro's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFRCordeiro&layout=donut&theme=gruvbox&hide_border=true) |
+| ![Jonathas Resende's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathasSresende&show_icons=true&theme=gruvbox&hide_border=true) | ![Jonathas Resende's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasSresende&layout=donut&theme=gruvbox&hide_border=true) |
 | --- | --- |
 
 
 ## 🏆 GitHub Trophies
-![Gabriel Cordeiro's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonathasSresende&row=1&column=5&theme=gruvbox&no-frame=true)
+![Jonathas Resende's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonathasSresende&row=1&column=5&theme=gruvbox&no-frame=true)
