@@ -1,4 +1,4 @@
-## 💜 Salve quebrada meu nome é Jonathas!
+## 👽 Salve quebrada meu nome é Jonathas! 👽
 
 Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 
