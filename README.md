@@ -37,17 +37,17 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
           <tbody>
                     <tr>
                               <td>HTML e CSS</td>
-                              <td>Alura</td>
+                              <td>Senac</td>
                               <td><a href="">Certificate</a></td>
                     </tr>
                     <tr>
                               <td>JavaScript CodeCamp</td>
-                              <td>DIO</td>
+                              <td>Senac</td>
                               <td><a href="">Certificate</a></td>
                     </tr>
                     <tr>
-                              <td>Python Essentials 1</td>
-                              <td>Cisco</td>
+                              <td>Python</td>
+                              <td>Senac</td>
                               <td><a href="">Certificate</a></td>
                     </tr>
           </tbody>       
