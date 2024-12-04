@@ -41,7 +41,7 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
                               <td><a href="">Certificate</a></td>
                     </tr>
                     <tr>
-                              <td>JavaScript CodeCamp</td>
+                              <td>JavaScript</td>
                               <td>Senac</td>
                               <td><a href="">Certificate</a></td>
                     </tr>
