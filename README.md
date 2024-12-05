@@ -12,7 +12,7 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
 
-![mario-dance](https://github.com/user-attachments/assets/9f3b3c7e-79aa-407b-b010-47eab24062bd)
+
 ![1](https://github.com/user-attachments/assets/1a787dbb-cb90-45be-af6b-2f9d281a4165)
 
 
