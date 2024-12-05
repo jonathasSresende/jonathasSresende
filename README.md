@@ -1,10 +1,9 @@
 ## 👽 Salve quebrada meu nome é Jonathas! 👽
 
 Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
-![mario-dance](https://github.com/user-attachments/assets/9f3b3c7e-79aa-407b-b010-47eab24062bd)
+
 
 💻 Criando no Senac o sistema Funcode.
-
 
 
 💬 Fale Comigo =) 
@@ -12,6 +11,8 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
+
+![mario-dance](https://github.com/user-attachments/assets/9f3b3c7e-79aa-407b-b010-47eab24062bd)
 
 ---
 
