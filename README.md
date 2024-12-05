@@ -1,10 +1,11 @@
 ## 👽 Salve quebrada meu nome é Jonathas! 👽
 
 Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
+![mario-dance](https://github.com/user-attachments/assets/9f3b3c7e-79aa-407b-b010-47eab24062bd)
 
 💻 Criando no Senac o sistema Funcode.
 
-<div class="tenor-gif-embed" data-postid="19635839" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mario-dance-gif-19635839">Mario Dance Sticker</a>from <a href="https://tenor.com/search/mario+dance-stickers">Mario Dance Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 💬 Fale Comigo =) 
 [![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jonathas-santos-de-resende-58819b319/)](https://linkedin.com/in/jonathas-santos-de-resende-58819b319/) 
