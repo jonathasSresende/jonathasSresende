@@ -11,6 +11,7 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
+![welcome](https://github.com/user-attachments/assets/1ffa0ea2-552f-4e6c-9bed-5f92ff5ed4af)
 
 
 ![1](https://github.com/user-attachments/assets/1a787dbb-cb90-45be-af6b-2f9d281a4165)
