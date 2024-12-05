@@ -13,7 +13,8 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 
 
 ![mario-dance](https://github.com/user-attachments/assets/9f3b3c7e-79aa-407b-b010-47eab24062bd)
-![luigi-luigi-dance](https://github.com/user-attachments/assets/80a05e29-53d4-4594-88cb-4f91a2908d11)
+![1](https://github.com/user-attachments/assets/1a787dbb-cb90-45be-af6b-2f9d281a4165)
+
 
 ---
 
