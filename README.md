@@ -58,5 +58,4 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 | --- | --- |
 
 
-## 🏆 GitHub Trophies
-![Jonathas Resende GitHub trophies](https://github-profile-trophy.vercel.app/?username=jonathasSresende&row=1&column=5&theme=gruvbox&no-frame=true)
+
