@@ -9,8 +9,7 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
-//www.linkedin.com/in/jonathasbombeiro/
-linkedin.com/in/jonathas-santos-de-resende-58819b319
+
 ---
 
 ## 🚀 My Skills
