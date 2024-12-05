@@ -5,10 +5,12 @@ Estou estudando no Senac Santana para ser um grande desenvolvedor no futuro.
 💻 Criando no Senac o sistema Funcode.
 
 💬 Fale Comigo =) 
-[![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathasbombeiro/)](https://www.linkedin.com/in/jonathasbombeiro/) 
+[![Linkedin](https://img.shields.io/badge/-jonathasSresende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jonathas-santos-de-resende-58819b319/)](https://linkedin.com/in/jonathas-santos-de-resende-58819b319/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathasbombeiro@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasbombeiro@gmail.com)](mailto:jonathasbombeiro@gmail.com) 
 [![GitHub](https://img.shields.io/github/followers/jonathasSresende?label=follow&style=social)](https://github.com/jonathasSresende)
 
+//www.linkedin.com/in/jonathasbombeiro/
+linkedin.com/in/jonathas-santos-de-resende-58819b319
 ---
 
 ## 🚀 My Skills
